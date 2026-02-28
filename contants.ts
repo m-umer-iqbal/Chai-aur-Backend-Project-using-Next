@@ -1,1 +1,1 @@
-export const DBNAME: string = "Chai-aur-Code-Project-using-Express";
+export const DB_NAME: string = "Chai-aur-Code-Project-using-Next";
