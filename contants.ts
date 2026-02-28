@@ -1,0 +1,1 @@
+export const DBNAME: string = "Chai-aur-Code-Project-using-Express";
