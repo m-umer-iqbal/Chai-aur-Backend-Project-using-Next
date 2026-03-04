@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 import { DB_NAME } from "../contants"
 
-let isConnected = false;
+let isConnected: boolean = false;
 
 const connectDB = async () => {
     if (isConnected)
